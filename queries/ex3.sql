@@ -1,4 +1,4 @@
-# == Exercise 2 ==
+# == Exercise 3 ==
 # 'SHARP シャープ株式会社' さんをフォローする人の表示名（name)を求めよ。
 # この下の行にSQL文を書きましょう。
 SELECT u2.email
